@@ -1,4 +1,5 @@
 //Your code here
 function justInvoke(fn){
-  return fn 
+  const a = fn
+  return a 
 }
